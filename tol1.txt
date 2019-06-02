@@ -1,0 +1,2 @@
+import subprocess,os
+os.system("interpreter.ASU")
